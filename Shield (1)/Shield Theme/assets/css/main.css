@@ -271,7 +271,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url('../img/afghanistan-bg.jpg') no-repeat center top;
+	background: url('../img/bg/afghanistan-bg.jpg') no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -422,11 +422,11 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/Mountain.jpg')
+	background-image: url('../img/bg/Mountain.jpg')
 }
 
 .divider2 {
-	background-image: url('../img/kids-in-kabul.jpeg')
+	background-image: url('../img/bg/kids-in-kabul.jpeg')
 }
 
 .divider3 {
