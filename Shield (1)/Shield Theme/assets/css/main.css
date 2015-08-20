@@ -379,7 +379,7 @@ a:after {
     z-index: 999;
     width: 100%;
     display: table;
-    max-height: 450px;
+/*     max- */height: 450px;
     border-bottom: 2px solid #E6EAED;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -439,7 +439,7 @@ a:after {
 }
 
 .divider6 {
-	background-image: url('../img/bg/divider6.jpg')
+	background-image: url('../img/bg/Mt_Olympus.jpg')
 }
 
 
