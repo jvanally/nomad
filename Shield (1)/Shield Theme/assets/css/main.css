@@ -402,7 +402,7 @@ a:after {
     -o-background-size: cover;
     background-size: cover;
 
-    background-attachment: relative;
+    background-attachment: fixed;
     
     text-align: center;
 }
@@ -422,7 +422,7 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/bg/Mountain.jpg')
+	background-image: url('../img/bg/afghan_girls.jpeg')
 }
 
 .divider2 {
